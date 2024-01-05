@@ -20,7 +20,7 @@ Click the "Play Random Song" button to start playing a random song from the audi
 
 ## Screenshot
 
-![Record Player Screenshot] (Screenshot 2024-01-05 194415.png)
+![Record Player Screenshot] (.Screenshot 2024-01-05 194415.png)
 
 ## Contributing
 
